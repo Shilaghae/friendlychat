@@ -59,6 +59,7 @@ import java.util.Map;
 
 import static com.firebase.ui.auth.AuthUI.GOOGLE_PROVIDER;
 
+// Home Activity
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
